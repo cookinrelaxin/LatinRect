@@ -1,81 +1,81 @@
-Experimental Item,SS,SP,SSS,SPS,SSP,SPP,SSA,SPA
-,,,,,,,The advertisement from the office here,
-,,,,,,,The announcement by the director today,
-,,,,,,,The article by the writer yesterday,
-,,,,,,,The author of the speech yesterday,
-,,,,,,,The computer with the program here,
-,,,,,,,The contract for the actor there,
-,,,,,,,The discussion about the topic today,
-,,,,,,,The dog on the path here,
-,,,,,,,The friend of the editor yesterday,
-,,,,,,,The gift for the daughter there,
-,,,,,,,The helicopter for the flight today,
-,,,,,,,,The article about the conferences yesterday
-,,,,,,,,The letter from the friends here
-,,,,,,,,The manual by the developers there
-,,,,,,,,The rope on the docks here
-,,,,,,,,The meal for the guests today
-,,,,,,,,The museum with the pictures there
-,,,,,,,,The design for the engines here
-,,,,,,,,The payment for the services yesterday
-,,,,,,,,The photo of the girls there
-,,,,,,,,The post of the platforms today
-,The prescription by the doctor,,,,,,,
-,The producer of the movie,,,,,,,
-,The publisher of the book,,,,,,,
-,The setting for the movie,,,,,,,
-,The statue in the garden,,,,,,,
-,The switch for the light,,,,,,,
-,The telegram to the friend,,,,,,,
-,The threat to the president,,,,,,,
-,The tour of the museum,,,,,,,
-,The train to the city,,,,,,,
-,,The truck on the bridges,,,,,,
-,,The cat of my neighbours,,,,,,
-,,The bowl with the fruits,,,,,,
-,,The letter from our penpals,,,,,,
-,,The lamp with the tassles,,,,,,
-,,The book about the warriors,,,,,,
-,,The host of the podcasts,,,,,,
-,,The lawyer of my uncles,,,,,,
-,,The shoe under the chairs,,,,,,
-,,The tomato on the vines,,,,,,
-,,,The dog of the farmer in the field,,,,,
-,,,The shark around the island with the monkey,,,,,
-,,,The balcony of the hotel over the car,,,,,
-,,,The e-mail by the member to the executive,,,,,
-,,,The recipe of the baker with the fruit,,,,,
-,,,The cookie in the bowl for the grandkid,,,,,
-,,,The book in the library about the tea,,,,,
-,,,The toy from the shelf beside the poster,,,,,
-,,,The tunnel below the basement of the tower,,,,,
-,,,The passenger on the train through the country,,,,,
-,,,,The city in the valleys with the flower,,,,
-,,,,The map on the desks under the light,,,,
-,,,,The cat with a bells on the collar,,,,
-,,,,The start of the races over the mountain,,,,
-,,,,The conversation about the students in hallway,,,,
-,,,,The hospital in the buildings near the garden,,,,
-,,,,The spy with the maps to the event,,,,
-,,,,The book about the events in the city,,,,
-,,,,The pillow with the ruffles on the couch,,,,
-,,,,The icing on the cakes with the candle,,,,
-,,,,,The stamp in the corner of the passports,,,
-,,,,,The blender on the counter near the outlets,,,
-,,,,,The tea in the tin with the flowers,,,
-,,,,,The castle with the bridge over the rivers,,,
-,,,,,The blueprint on the table by the plants,,,
-,,,,,The strategy for the invasion of the countries,,,
-,,,,,The attitude toward the election for the presidents,,,
-,,,,,The ticket for the trip through the cities,,,
-,,,,,The message from the fan of the writers,,,
-,,,,,The meaning of the symbol on the flags,,,
-,,,,,,The feeling toward the recipients of the awards,,
-,,,,,,The attitude of the senators toward the bills,,
-,,,,,,The mood of the critics of the poems,,
-,,,,,,The pattern on the carpets in the rooms,,
-,,,,,,The call of the birds through the clouds,,
-,,,,,,The sound of the jackhammers outside the windows,,
-,,,,,,The sighting of the fires on the mountains,,
-,,,,,,The smell of the sandwiches on the napkins,,
-,,,,,,The cure for the diseases in the cities,,
+Col_1,Col_2,Col_3,Condition,Exp_Fill,F_N,S_N
+The advertisement,from the office,here,SSA,Experimental,office,X
+The announcement,by the director,today,SSA,Experimental,director,X
+The article,by the writer,yesterday,SSA,Experimental,writer,X
+The author,of the speech,yesterday,SSA,Experimental,speech,X
+The computer,with the program,here,SSA,Experimental,program,X
+The contract,for the actor,there,SSA,Experimental,actor,X
+The discussion,about the topic,today,SSA,Experimental,topic,X
+The dog,on the path,here,SSA,Experimental,path,X
+The friend,of the editor,yesterday,SSA,Experimental,editor,X
+The gift,for the daughter,there,SSA,Experimental,daughter,X
+The helicopter,for the flight,today,SSA,Experimental,flight,X
+The article,about the conferences,yesterday,SPA,Experimental,conferences,X
+The letter,from the friends,here,SPA,Experimental,friends,X
+The manual,by the developers,there,SPA,Experimental,developers,X
+The rope,on the docks,here,SPA,Experimental,docks,X
+The meal,for the guests,today,SPA,Experimental,guests,X
+The museum,with the pictures,there,SPA,Experimental,pictures,X
+The design,for the engines,here,SPA,Experimental,engines,X
+The payment,for the services,yesterday,SPA,Experimental,services,X
+The photo,of the girls,there,SPA,Experimental,girls,X
+The post,of the platforms,today,SPA,Experimental,platforms,X
+The prescription,by the doctor,,SS,Experimental,doctor,X
+The producer,of the movie,,SS,Experimental,movie,X
+The publisher,of the book,,SS,Experimental,book,X
+The setting,for the movie,,SS,Experimental,movie,X
+The statue,in the garden,,SS,Experimental,garden,X
+The switch,for the light,,SS,Experimental,light,X
+The telegram,to the friend,,SS,Experimental,friend,X
+The threat,to the president,,SS,Experimental,president,X
+The tour,of the museum,,SS,Experimental,museum,X
+The train,to the city,,SS,Experimental,city,X
+The truck,on the bridges,,SP,Experimental,bridges,X
+The cat,of my neighbours,,SP,Experimental,neighbours,X
+The bowl,with the fruits,,SP,Experimental,fruits,X
+The letter,from our penpals,,SP,Experimental,penpals,X
+The lamp,with the tassles,,SP,Experimental,tassles,X
+The book,about the warriors,,SP,Experimental,warriors,X
+The host,of the podcasts,,SP,Experimental,podcasts,X
+The lawyer,of my uncles,,SP,Experimental,uncles,X
+The shoe,under the chairs,,SP,Experimental,chairs,X
+The tomato,on the vines,,SP,Experimental,vines,X
+The dog,of the farmer,in the field,SSS,Experimental,farmer,field
+The shark,around the island,with the monkey,SSS,Experimental,island,monkey
+The balcony,of the hotel,over the car,SSS,Experimental,hotel,car
+The e-mail,by the member,to the executive,SSS,Experimental,member,executive
+The recipe,of the baker,with the fruit,SSS,Experimental,baker,fruit
+The cookie,in the bowl,for the grandkid,SSS,Experimental,bowl,grandkid
+The book,in the library,about the tea,SSS,Experimental,library,tea
+The toy,from the shelf,beside the poster,SSS,Experimental,shelf,poster
+The tunnel,below the basement,of the tower,SSS,Experimental,basement,tower
+The passenger,on the train,through the country,SSS,Experimental,train,country
+The city,in the valleys,with the flower,SPS,Experimental,valleys,flower
+The map,on the desks,under the light,SPS,Experimental,desks,light
+The cat,with a bells,on the collar,SPS,Experimental,bells,collar
+The start,of the races,over the mountain,SPS,Experimental,races,mountain
+The conversation,about the students,in the hallway,SPS,Experimental,students,hallway
+The hospital,in the buildings,near the garden,SPS,Experimental,buildings,garden
+The spy,with the maps,to the event,SPS,Experimental,maps,event
+The book,about the events,in the city,SPS,Experimental,events,city
+The pillow,with the ruffles,on the couch,SPS,Experimental,ruffles,couch
+The icing,on the cakes,with the candle,SPS,Experimental,cakes,candle
+The stamp,in the corner,of the passports,SSP,Experimental,corner,passports
+The blender,on the counter,near the outlets,SSP,Experimental,counter,outlets
+The tea,in the tin,with the flowers,SSP,Experimental,tin,flowers
+The castle,with the bridge,over the rivers,SSP,Experimental,bridge,rivers
+The blueprint,on the table,by the plants,SSP,Experimental,table,plants
+The strategy,for the invasion,of the countries,SSP,Experimental,invasion,countries
+The attitude,toward the election,for the presidents,SSP,Experimental,election,presidents
+The ticket,for the trip,through the cities,SSP,Experimental,trip,cities
+The message,from the fan,of the writers,SSP,Experimental,fan,writers
+The meaning,of the symbol,on the flags,SSP,Experimental,symbol,flags
+The feeling,toward the recipients,of the awards,SPP,Experimental,recipients,awards
+The attitude,of the senators,toward the bills,SPP,Experimental,senators,bills
+The mood,of the critics,of the poems,SPP,Experimental,critics,poems
+The pattern,on the carpets,in the rooms,SPP,Experimental,carpets,rooms
+The call,of the birds,through the clouds,SPP,Experimental,birds,clouds
+The sound,of the jackhammers,outside the windows,SPP,Experimental,jackhammers,windows
+The sighting,of the fires,on the mountains,SPP,Experimental,fires,mountains
+The smell,of the sandwiches,on the napkins,SPP,Experimental,sandwiches,napkins
+The cure,for the diseases,in the cities,SPP,Experimental,diseases,cities
